@@ -1,0 +1,39 @@
+NAME
+    Bundle::Maypole - All Maypole goodness
+
+SYNOPSIS
+    "perl -MCPAN -e 'install Bundle::Maypole'"
+
+DESCRIPTION
+    Installs all the Maypole modules for you.
+
+CONTENTS
+    Maypole
+
+    Maypole::View::Mason
+
+    Maypole::Plugin::Authentication-Abstract
+
+    Maypole::Plugin::Component
+
+    Maypole::Plugin::Config-YAML
+
+    Maypole::Plugin::Exception
+
+    Maypole::Plugin::I18N
+
+    Maypole::Plugin::Loader
+
+    Maypole::Plugin::Relationship
+
+    Maypole::Plugin::Transaction
+
+    Maypole::Plugin::Untaint
+
+AUTHOR
+    Sebastian Riedel, "sri@oook.de" Idea by Stephen Quinney
+
+LICENSE
+    This library is free software. You can redistribute it and/or modify it
+    under the same terms as perl itself.
+
