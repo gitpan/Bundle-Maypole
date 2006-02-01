@@ -2,7 +2,7 @@ package Bundle::Maypole;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
@@ -22,7 +22,7 @@ Maypole
 
 Maypole::View::Mason
 
-Maypole::Plugin::Authentication-Abstract
+Maypole::Plugin::Authentication::UserSessionCookie
 
 Maypole::Plugin::Component
 
@@ -42,7 +42,7 @@ Maypole::Plugin::Untaint
 
 =head1 AUTHOR
 
-Sebastian Riedel, C<sri@oook.de>
+Sebastian Riedel, C<sri@oook.de>.  Modified to work and changing to more commonly used Authentication module by Kieren Diment C<kd@totaldatasolution.com>
 
 =head1 LICENSE
 
