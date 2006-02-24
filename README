@@ -31,7 +31,7 @@ CONTENTS
     Maypole::Plugin::Untaint
 
 AUTHOR
-    Sebastian Riedel, "sri@oook.de" Idea by Stephen Quinney
+    Sebastian Riedel, "sri@oook.de" Idea by Stephen Quinney, fixed to actually work by Kieren Diment, "kd@totaldatasolution.com"
 
 LICENSE
     This library is free software. You can redistribute it and/or modify it

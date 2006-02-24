@@ -3,3 +3,10 @@ Revision history for Perl extension Bundle::Maypole.
 0.01  Wed Oct 20 16:00:00 2004
 
         - initial release
+0.02      Feb 01 2006
+
+        - fixed so that it actually works.
+
+0.03     Feb 22 2006
+
+        - fixed this time so it actually does work.  No really.
