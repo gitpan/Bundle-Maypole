@@ -10,3 +10,6 @@ Revision history for Perl extension Bundle::Maypole.
 0.03     Feb 22 2006
 
         - fixed this time so it actually does work.  No really.
+0.04     March 2 2006
+
+        -removed Component plugin - is now part of core.

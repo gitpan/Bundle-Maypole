@@ -2,7 +2,7 @@ package Bundle::Maypole;
 
 use strict;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 NAME
 
@@ -23,8 +23,6 @@ Maypole
 Maypole::View::Mason
 
 Maypole::Plugin::Authentication::UserSessionCookie
-
-Maypole::Plugin::Component
 
 Maypole::Plugin::Config::YAML
 
